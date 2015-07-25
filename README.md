@@ -14,6 +14,8 @@
  + iPhone plugs and cables
  + Patric's phone and cables
  + Blue tooth speaker
+ + head phones
+ + multi-usb port
 
 ## Camping stuff
  + Bug spray
