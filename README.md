@@ -24,6 +24,8 @@
  + Tents (how many?)
  + Lamps & headlights
  + chairs
+ + pocket knife
+ + hachet
 
 ## Cooking
  + Cleaning basin
@@ -34,7 +36,18 @@
  + BBQ?
  + Cast iron skillet
  + Cooking utensils, spatula, spoon
- + Knife
+ + Cooking knife
+ + pots
+ + plastic cups
+ + coffee cups
+ + plates
+ + bowls
+ + forks, spoons, knives
+ + paper towls
+ + cleaning cloth
+ + drying cloth
+ + garbage bags
+ + zip lock bags
 
 ## Running stuff
  + Water bottles
@@ -51,7 +64,25 @@
  + ball?
 
 ## HEF
- + 
+ + oil
+ + salt, pepper,
+ + salad dressing
+ + cereal, granola
+ + peanut butter
+ + jelly
+ + instant soup
+ + coffee
+ + hot chocolate
+ + lentils
+ + instant brown rice
+ + thyme, cumin, oregano, garlic, .......
+ + can black beans
+ + couscous
+ + bread, bagels, tuna
+ + cheese, ham, mustard, mayo
+ + carrots, onion, pepper, 
+ + hot sauce
+ + tortilla.....
  
 ## Other
  + Telescope & eyepieces
