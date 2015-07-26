@@ -17,6 +17,12 @@
  + head phones
  + multi-usb port
 
+## Entertainment
+ + Books
+ + Drawing things 
+ + ice 
+ + 
+
 ## Camping stuff
  + Bug spray
  + Bug spray
@@ -28,6 +34,16 @@
  + chairs
  + pocket knife
  + hachet
+ + 
+ 
+## Hiking
+ + boots
+ + socks
+ + backpacks
+ + water holder { 
+ +    bottles, 
+ +    bladders, etc... 
+ + } 
 
 ## Cooking
  + Cleaning basin
