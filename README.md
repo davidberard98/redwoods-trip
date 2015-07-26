@@ -20,8 +20,6 @@
 ## Entertainment
  + Books
  + Drawing things 
- + ice 
- + 
 
 ## Camping stuff
  + Bug spray
@@ -34,16 +32,16 @@
  + chairs
  + pocket knife
  + hachet
- + 
+ + Cooler
+   * ice 
  
 ## Hiking
  + boots
  + socks
  + backpacks
- + water holder { 
- +    bottles, 
- +    bladders, etc... 
- + } 
+ + water holder
+   * bottles, 
+   * bladders, etc... 
 
 ## Cooking
  + Cleaning basin
