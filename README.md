@@ -16,6 +16,7 @@
  + Blue tooth speaker
  + head phones
  + multi-usb port
+ + GPS for maps
 
 ## Entertainment
  + Books
@@ -27,6 +28,7 @@
  + Bug spray
  + Sleeping Bags
  + Sleeping mats
+ + Bags for pillows
  + Tents (how many?)
  + Lamps & headlights
  + chairs
@@ -78,6 +80,7 @@
  + sun hat
  + sun screan
  + ball?
+ + Camelback pack thing
 
 ## HEF
  + oil
@@ -97,11 +100,14 @@
  + bread, bagels, tuna
  + cheese, ham, mustard, mayo
  + carrots, onion, pepper, 
+ + apples
  + hot sauce
  + tortilla.....
  
 ## Other
  + Telescope & eyepieces
+   * Star maps
+   * Turn off the laser when done!
  + Paper/pencil for running logs & math competitions
  + Maps
  + Thyme
