@@ -76,6 +76,9 @@
 ## Sports
  + First aid ... band-aids, neosporan, .....
  + Yoga mat, clothes
+ + Swim suits
+ + Swim goggles
+ + ice pack holder ... or ziplock to hold ice.
  + towels
  + sun hat
  + sun screan
