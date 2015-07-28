@@ -1,6 +1,17 @@
 # Redwoods Trip
 
-
+## Preparation
+ + Check batteries in electronics
+   * Camera
+   * Walkie talkie
+   * GPS
+   * Headlights
+   * Camp light
+ + Check extra batteries
+ + Check stoves
+ + Check car/service
+ + Room/Cap reservations
+ + 
 
 ## Electronics
  + Camera
