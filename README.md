@@ -21,6 +21,7 @@
 ## Entertainment
  + Books
  + Drawing things 
+ + Cards
 
 ## Camping stuff
  + Bug spray
