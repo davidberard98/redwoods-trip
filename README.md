@@ -128,4 +128,6 @@
  + Thyme
  + Glasses & driving permit
  + Lots of plastic bags
+ + Nail Clipper
+ + Toothbrushes
 
