@@ -45,6 +45,7 @@
  + Lamps & headlights
  + chairs
  + pocket knife
+ + Water filter
  + hachet
  + Cooler
    * ice 
