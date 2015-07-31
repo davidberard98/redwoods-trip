@@ -7,8 +7,8 @@
    * GPS
    * Headlights
    * Camp light
- + Check extra batteries
- + Check stoves
+ + Check extra batteries x
+ + Check stoves x
  + Check car/service
  + Room/Cap reservations
  + 
@@ -20,8 +20,8 @@
  + Laptop + charging cable
  + DC -> AC converter
  + Watch charging cable
- + Battery/usb/watch charging thing
- + Raspberry pi device to store watch activities
+ + Battery/usb/watch charging thing x
+ + Raspberry pi device to store watch activities x
  + iPhone plugs and cables
  + Patric's phone and cables
  + Blue tooth speaker
@@ -32,16 +32,16 @@
 ## Entertainment
  + Books
  + Drawing things 
- + Cards
+ + Cards x
 
 ## Camping stuff
  + Bug spray
  + Bug spray
  + Bug spray
- + Sleeping Bags
- + Sleeping mats
+ + Sleeping Bags x
+ + Sleeping mats x
  + Bags for pillows
- + Tents (how many?)
+ + Tents (how many?) x
  + Lamps & headlights
  + chairs
  + pocket knife
@@ -83,7 +83,7 @@
 ## Running stuff
  + Water bottles
  + Running shoes (x3?)
- + Leukotape P
+ + Leukotape P x
  + Running shorts
 
 ## Sports
@@ -126,7 +126,7 @@
    * Turn off the laser when done!
  + Paper/pencil for running logs & math competitions
  + Maps
- + Thyme
+ + ~~Thyme~~ Don't have any
  + Glasses & driving permit
  + Lots of plastic bags
  + Nail Clipper
